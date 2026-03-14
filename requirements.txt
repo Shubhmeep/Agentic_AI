@@ -10,3 +10,4 @@ pypdf
 faiss-cpu
 transformers
 pydantic
+dotenv
