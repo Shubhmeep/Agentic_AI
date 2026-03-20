@@ -1,0 +1,7 @@
+##### SETTING UP AZURE ########
+1. set up the directory✅
+2. create azure free tier account - 200$ free creds.✅
+3. create azure storage service - blob.✅
+4. creating azure open ai credentials setup - foundary rescource -> go to foundary portal -> go to models & endpoints -> select gpt-4o -> deploy gpt-4o ✅
+5. creating the embedding model -> go to models & endpoints -> select text-embedding-3-small -> deploy. ✅
+6. azure openai endpoint vs target url ⁉️

@@ -1,0 +1,40 @@
+# Azure
+azure-identity
+azure-monitor-opentelemetry
+azure-search-documents
+azure-storage-blob
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# LangChain / Agentic
+langchain
+langchain-community
+langchain-openai
+langgraph
+langsmith
+
+# Telemetry
+opentelemetry-instrumentation-fastapi
+
+# Data / DB
+pandas
+psycopg2-binary
+sqlalchemy
+redis
+
+# Document Processing
+pypdf
+firecrawl-py
+
+# Video
+yt-dlp
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+requests
