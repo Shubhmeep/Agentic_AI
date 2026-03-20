@@ -2,6 +2,8 @@
 
 > *Paste a YouTube URL. Get a legal compliance report in minutes.*
 
+> Head over to the **Compliance-Ingestion-system** folder in this for the code and walkthrough of how this was built.
+
 ---
 
 ## What is AdAudit?
